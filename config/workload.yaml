@@ -21,6 +21,6 @@ spec:
       value: default
   source:
     git:
-      url: https://github.com/trisberg/spring-cloud-serverless
+      url: https://github.com/vudayani-vmw/spring-cloud-serverless
       ref:
         branch: main
